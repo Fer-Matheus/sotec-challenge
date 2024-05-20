@@ -13,7 +13,7 @@ export default function SignUp() {
       bgcolor="inherit"
       color="white"
     >
-      <Typography variant="h2" className='text' gutterBottom style={{ fontWeight: "bold", width: "auto", fontFamily:"sans-serif"}}>
+      <Typography variant="h2" gutterBottom style={{ fontWeight: "bold", width: "auto", fontFamily:"sans-serif"}}>
         Happening now
       </Typography>
       <Typography variant="h5" gutterBottom>

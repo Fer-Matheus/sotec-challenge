@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <Box width={"1800"} height={"auto"} marginBottom={0}>
       <Box className="flex align-middle justify-between ">
-        <Logo squareDimension={400} leftMargin={40} />
+        <Logo squareDimension={squareDimension} leftMargin={40} />
         <SignUp />
       </Box>
       <Footer />
